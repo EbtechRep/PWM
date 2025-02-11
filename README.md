@@ -107,7 +107,7 @@ Para que os comandos **Ninja**, **CMake** e **Python** sejam reconhecidos em qua
 3. Acesse o diretório do projeto:
 
    ```bash
-   cd Serial
+   cd pmw
    ```
 
 3. Instale a pasta **build**
